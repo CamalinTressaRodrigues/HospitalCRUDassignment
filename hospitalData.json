@@ -1,0 +1,22 @@
+[
+  {
+    "HospitalName": "MedicalTrust",
+    "patientCount": 120,
+    "location": "Pallimukku"
+  },
+  {
+    "HospitalName": "AsterMedicity",
+    "patientCount": 247,
+    "location": "Kadavantra"
+  },
+  {
+    "HospitalName": "LourdesHospital",
+    "patientCount": 290,
+    "location": "Ernakulam"
+  },
+  {
+    "HospitalName": "SunriseHospital",
+    "patientCount": 210,
+    "location": "Kottayam"
+  }
+]
